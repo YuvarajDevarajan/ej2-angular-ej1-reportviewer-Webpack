@@ -1,5 +1,4 @@
 import { Component, ViewEncapsulation } from '@angular/core';
-import { gridData } from './grid-data';
 
 @Component({
   selector: 'seed-app',
